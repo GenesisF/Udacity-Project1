@@ -1,0 +1,139 @@
+.container{
+  width: 100%;
+  height: auto;
+}
+
+.navbar{
+width: 100%;
+height: 60%;
+background: #6c606d;
+margin-top: 6px;
+}
+
+.navbar ul{
+  margin-right: 100px;
+}
+
+ .navbar ul li{
+  display: inline;
+  line-height: 60px;
+  padding: 10px;
+} 
+
+.navbar ul li a{
+  text-decoration: none;
+  font-family: sans-serif;
+  color:#38343a;
+}
+
+.navbar ul li a:hover{
+  color: #d8b3db
+}
+
+.header{
+  width: 100%;
+  height: 300px; 
+}
+
+.header{
+  width: 100%;
+  height: 400px;
+  background-image: url(img/angelDeLaIndependencia.jpg);
+}
+
+.header img{
+  width: 20%;
+  height: 40%;
+  margin-left: 700px;
+  margin-top: 300px;
+}
+
+.header h1{
+  font-family: sans-serif;
+  text-align: center;
+  color: #6c606d
+}
+
+.header h2{
+  font-family: sans-serif;
+  text-align: center;
+  color: #998aa0;
+}
+
+.header h3{
+  font-family: sans-serif;
+  text-align: center;
+  color: #6c606d;
+}
+
+.aboutMe{
+  width: 100%;
+  height: 400px;
+  background-color: #e5dee9;
+}
+
+.aboutMe h1{
+  font-family: sans-serif;
+  color: #6c606d;
+  text-align: center;
+  margin-top: 300px;
+}
+
+.paragraph{
+  width: 800px;
+  height: 300px;
+  margin: auto;
+  font-family: 'Courier New', Courier, monospace;
+  color: #38343a;
+  text-align: justify;
+}
+
+.contact{
+  width: 100%;
+  height: 500px;
+  background-color: #e5dee9;
+}
+
+.contact h1{
+  font-family: sans-serif;
+  color: #6c606d;
+  text-align: center;
+}
+
+.linkedin{
+  width: 10%;
+  margin-left: 600px;
+}
+
+.email{
+  width: 10%;
+}
+
+.github{
+  width: 10%;
+}
+
+.footer{
+  width: 100%;
+  height: 30%;
+  background-color: #38343a;
+  margin-top: 50px;
+}
+
+.footer p{
+  line-height: 100px;
+  color: #e5dee9;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.footer p a{
+  color: #e5dee9;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+
+.footer p a:hover{
+  text-decoration: underline;
+  color: #d8b3db;
+}
